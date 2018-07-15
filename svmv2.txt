@@ -1,0 +1,9 @@
+"svmv2"
+{
+    "base"      "base"
+    "title"     "Garry's Mod: SVM v2"
+    "maps"      "^sc_"    
+    "menusystem"    "1"
+
+
+}
